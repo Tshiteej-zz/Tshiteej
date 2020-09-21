@@ -17,6 +17,7 @@ I am Tshiteej Bhardwaj, Software Engineer at [Yellow Messenger](https://yellowme
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=flat-square&logo=elasticsearch)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![Dart](https://img.shields.io/badge/-Dart-1572B6?style=flat-square&logo=Dart)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
@@ -24,7 +25,8 @@ I am Tshiteej Bhardwaj, Software Engineer at [Yellow Messenger](https://yellowme
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Tshiteej&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tshiteej&hide=TeX&layout=compact)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Tshiteej&count_private=true&show_icons=true&include_all_commits=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tshiteej&hide=TeX&layout=compact&theme=dracula)
+
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Tshiteej.Tshiteej)
