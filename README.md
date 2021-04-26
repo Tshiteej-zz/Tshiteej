@@ -3,7 +3,6 @@
 I am Tshiteej Bhardwaj, Software Engineer at [Yellow Messenger](https://yellowmessenger.com/). Really Great to see you here.
 
 [![Linkedin Badge](https://img.shields.io/badge/-Tshiteej-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tshiteej/)](https://www.linkedin.com/in/tshiteej/)
-[![Medium Badge](https://img.shields.io/badge/-@tbhardwaj97-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@tbhardwaj97)](https://medium.com/@tbhardwaj97)
 [![Gmail Badge](https://img.shields.io/badge/-tbhardwaj97@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tbhardwaj97@gmail.com)](mailto:tbhardwaj97@gmail.com)
 
 ## ⚡ Technologies
